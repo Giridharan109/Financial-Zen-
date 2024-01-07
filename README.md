@@ -1,5 +1,4 @@
-# Financial-Zen-
-Your Ultimate Expense Tracker for Smart Money Management
+
 # Financial Zen - Expense Tracker
 
 Manage your finances effortlessly with Financial Zen, an intuitive Expense Tracker built with HTML, CSS, and JavaScript.
