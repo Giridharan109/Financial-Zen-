@@ -3,6 +3,10 @@
 
 Manage your finances effortlessly with Financial Zen, an intuitive Expense Tracker built with HTML, CSS, and JavaScript.
 
+
+## image
+![image](https://github.com/Giridharan109/Financial-Zen-/assets/129315046/64c3a067-1cb5-462a-93eb-d59866b23a1c)
+
 ## Features
 - **Simple Interface:** Streamlined design for easy expense tracking.
 - **Transaction Management:** Add, edit, and delete transactions with just a few clicks.
